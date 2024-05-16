@@ -23,13 +23,13 @@ public class BodyTemperatureMonitorTest {
 
     @Test
     public void testStudentIdentity() {
-        String studentId = "223656754";
+        String studentId = "223057589";
         Assert.assertNotNull("Student ID is null", studentId);
     }
 
     @Test
     public void testStudentName() {
-        String studentName = "Upeksha Dilshan";
+        String studentName = "Sithira Akbo";
         Assert.assertNotNull("Student name is null", studentName);
     }
 
